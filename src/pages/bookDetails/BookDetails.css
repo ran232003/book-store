@@ -1,0 +1,58 @@
+.arrow-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.mainDetails {
+  margin-left: 20px;
+  padding: 20px;
+}
+.details-info {
+  display: flex;
+  align-items: center;
+}
+.details-box {
+  border: 2px solid rgb(109, 170, 201);
+  padding: 10px;
+  width: fit-content;
+  border-radius: 10px;
+}
+.details-info h2 {
+  margin-right: 10px; /* Adjust the spacing between h2 and span if needed */
+}
+.book-info {
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.book-info-heading {
+  color: #3498db;
+}
+
+.details-info {
+  display: flex;
+  margin-bottom: 10px;
+}
+h4 {
+  color: rgb(119, 175, 188);
+}
+.details-box-delete {
+  border: 2px solid rgb(109, 170, 201);
+  padding: 30px;
+  width: fit-content;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.container-delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

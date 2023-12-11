@@ -1,0 +1,13 @@
+.test {
+  /* border: solid 5px red; */
+}
+.arrow-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}

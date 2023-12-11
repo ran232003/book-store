@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.myForm {
+  border-radius: 6px;
+  padding: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  background: white;
+  margin-bottom: 10px;
+  width: 40%;
+}
+.error {
+  border: 2px solid #ff6565;
+}
+.myInput {
+  margin-top: 20px;
+}
+.error-message {
+  color: #ff6565;
+}
